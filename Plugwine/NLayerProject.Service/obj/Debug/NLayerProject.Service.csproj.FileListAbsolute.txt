@@ -1,0 +1,10 @@
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\bin\NLayerProject.Service.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\bin\NLayerProject.Service.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\bin\NLayerProject.BLL.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\bin\NLayerProject.Core.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\bin\TinyMapper.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\bin\NLayerProject.BLL.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\bin\NLayerProject.Core.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\obj\Debug\NLayerProject.Service.csprojResolveAssemblyReference.cache
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\obj\Debug\NLayerProject.Service.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Service\obj\Debug\NLayerProject.Service.pdb

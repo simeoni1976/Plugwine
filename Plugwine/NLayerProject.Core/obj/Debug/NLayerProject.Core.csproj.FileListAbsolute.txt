@@ -1,0 +1,50 @@
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Core\bin\NLayerProject.Core.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Core\bin\NLayerProject.Core.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Core\bin\TinyMapper.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Core\obj\Debug\NLayerProject.Core.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Core\obj\Debug\NLayerProject.Core.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.Core\obj\Debug\NLayerProject.Core.csprojResolveAssemblyReference.cache
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.Core\bin\TinyMapper.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.csprojResolveAssemblyReference.cache
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\TinyMapper.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\Newtonsoft.Json.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\Newtonsoft.Json.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.dll.config
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.SqlServer.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.SqlServer.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.csprojResolveAssemblyReference.cache
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.dll.config
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.SqlServer.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\Newtonsoft.Json.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\TinyMapper.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.SqlServer.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\Newtonsoft.Json.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.dll.config
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\NLayerProject.Core.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.SqlServer.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\Newtonsoft.Json.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\TinyMapper.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\EntityFramework.SqlServer.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\bin\Newtonsoft.Json.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.csprojResolveAssemblyReference.cache
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.Core\obj\Debug\NLayerProject.Core.pdb

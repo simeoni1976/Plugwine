@@ -1,0 +1,71 @@
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll.config
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Elasticsearch.Net.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Nest.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Newtonsoft.Json.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Elasticsearch.Net.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Elasticsearch.Net.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Nest.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Nest.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\bin\Newtonsoft.Json.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll.config
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Newtonsoft.Json.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Newtonsoft.Json.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.SqlServer.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.SqlServer.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.csprojResolveAssemblyReference.cache
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll.config
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.SqlServer.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Newtonsoft.Json.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.SqlServer.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Newtonsoft.Json.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Default.srprofile
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll.config
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\NLayerProject.SpecFlow.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.SqlServer.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Newtonsoft.Json.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\SpecRun.SpecFlowPlugin.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\TechTalk.SpecFlow.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\TechTalk.SpecRun.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Elasticsearch.Net.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\EntityFramework.SqlServer.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Nest.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\bin\Newtonsoft.Json.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.csprojResolveAssemblyReference.cache
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.SpecFlow\obj\Debug\NLayerProject.SpecFlow.pdb

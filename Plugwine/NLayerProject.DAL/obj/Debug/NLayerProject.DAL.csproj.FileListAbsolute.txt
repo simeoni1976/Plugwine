@@ -1,0 +1,101 @@
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\NLayerProject.DAL.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\NLayerProject.DAL.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Elasticsearch.Net.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\EntityFramework.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Nest.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Newtonsoft.Json.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\NLayerProject.Core.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\TinyMapper.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\NLayerProject.Core.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Elasticsearch.Net.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Elasticsearch.Net.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\EntityFramework.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Nest.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Nest.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\bin\Newtonsoft.Json.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.csprojResolveAssemblyReference.cache
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\NLayerProject\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\EntityFramework.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Nest.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\TinyMapper.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\EntityFramework.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Nest.pdb
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Nest.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.xml
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.csprojResolveAssemblyReference.cache
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.dll
+C:\Users\fbourdon\Desktop\Architecture .NET\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\TinyMapper.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.dll.config
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.SqlServer.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.SqlServer.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.dll.config
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.dll.config
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.SqlServer.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\TinyMapper.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.SqlServer.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.pdb
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.xml
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.csprojResolveAssemblyReference.cache
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.dll
+F:\private\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.dll.config
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.DAL.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.SqlServer.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\TinyMapper.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\NLayerProject.Core.dll.config
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Elasticsearch.Net.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\EntityFramework.SqlServer.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.pdb
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Nest.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\bin\Newtonsoft.Json.xml
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.csprojResolveAssemblyReference.cache
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.dll
+G:\private\job\Pro\Architecture .NET\Console Project\Plugwine\NLayerProject.DAL\obj\Debug\NLayerProject.DAL.pdb

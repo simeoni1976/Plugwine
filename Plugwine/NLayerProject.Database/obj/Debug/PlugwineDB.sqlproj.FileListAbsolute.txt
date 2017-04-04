@@ -1,0 +1,14 @@
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\bin\Debug\PlugwineDB.dacpac
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\bin\Debug\_00_NLayerProject.Database.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\bin\Debug\_00_NLayerProject.Database.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\obj\Debug\_00_NLayerProject.Database.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\obj\Debug\_00_NLayerProject.Database.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\obj\Debug\Model.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\obj\Debug\refactor.xml
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\obj\Debug\postdeploy.sql
+C:\Users\fabri\Desktop\Console Project\Plugwine\00-NLayerProject.Database\obj\Debug\predeploy.sql
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Database\bin\Debug\PlugwineDB.dacpac
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Database\bin\Debug\_00_NLayerProject.Database.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Database\bin\Debug\_00_NLayerProject.Database.pdb
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Database\obj\Debug\_00_NLayerProject.Database.dll
+C:\Users\fabri\Desktop\Console Project\Plugwine\NLayerProject.Database\obj\Debug\_00_NLayerProject.Database.pdb
